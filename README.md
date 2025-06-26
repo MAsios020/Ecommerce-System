@@ -41,10 +41,10 @@ EcommerceSystem/
 
 ## 🧑‍💼 Seeded Users
 
-| Email              | Password | Role   |
+| Email               | Role   |
 |-------------------|----------|--------|
-| `admin@example.com` | `123456` | Admin  |
-| `john@example.com`  | `123456` | User   |
+| `admin@example.com`  | Admin  |
+| `john@example.com`   | User   |
 
 ---
 
