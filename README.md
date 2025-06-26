@@ -74,7 +74,6 @@ EcommerceSystem/
 ```http
 POST /api/auth/login
 {
-  "email": "john@example.com",
-  "password": "123456"
+  "email": "john@example.com"
 }
 
