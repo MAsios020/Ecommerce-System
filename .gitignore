@@ -1,0 +1,11 @@
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+bin/
+obj/
+.env
+*.sqlite
+*.db
+Migrations/
